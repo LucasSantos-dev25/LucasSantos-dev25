@@ -1,8 +1,46 @@
-# 👋Be Welcome to my Profile
-- 🎓Student of Information Systems at UFRPE.
-- 🚀I'm currently studying and practicing building APIs and comunication between back-end and front-end aplications.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00E5FF&size=40&center=true&vCenter=true&width=1000&lines=Hello+World!;&wave=true)](https://git.io/typing-svg)
+<h1 align="center">Lucas Santos do Nascimento</h1>
+<h3 align="center">Desenvolvedor Fullstack & DevOps</h3>
 
-# 💻Utilized Stacks:
+
+# Sobre
+- 🎓 Estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco - UFRPE | 4º Período.
+- 💼 Gerente de Projetos na Seed a Bit (Empresa Júnior de TI), acumulando experiência prática em desenvolvimento Back-end, Front-end e DevOps, além de liderança em tecnologia.
+- 🌐 Participei do desenvolvimento do Back-End e da infraestrutura do [site oficial do curso de Ciência da Computação da UFRPE](https://ufrpebcc.com.br), além de ter sido o Scrum Master reponsável pelo gerenciamento do projeto.
+- 🚀Atualmente estou Refinando e consolidando habilidades em desenvolvimento Full-Stack e práticas de DevOps, utilizando ambientes de nuvem como AWS e Azure, além de outras ferramentas de infraestrutura.
+
+# 💻Tech-Stack:
+
+## Frontend
+<div>
+   <a><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+   <a><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+   <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+   <a><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
+   <a><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+   <a><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+   <a><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
+   <a><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+
+
+</div>
+
+## Backend
+<div>
+  <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"></a>
+  <a> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>
+
+
+
+
+</div>
+
+## DevOps
 <div>
   <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
