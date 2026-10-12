@@ -3,7 +3,8 @@
 <h3 align="center">Desenvolvedor Fullstack & DevOps</h3>
 
 
-# 👨‍💻 Sobre
+<h1 align="center">👨‍💻Sobre</h1>
+
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco - UFRPE | 4º Período.
 - 💼 Gerente de Projetos na Seed a Bit (Empresa Júnior de TI), acumulando experiência prática em desenvolvimento Back-end, Front-end e DevOps, além de liderança em tecnologia.
 - 🌐 Participei do desenvolvimento do Back-End e da infraestrutura do [site oficial do curso de Ciência da Computação da UFRPE](https://ufrpebcc.com.br), além de ter sido o Scrum Master reponsável pelo gerenciamento do projeto.
