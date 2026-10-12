@@ -3,15 +3,16 @@
 <h3 align="center">Desenvolvedor Fullstack & DevOps</h3>
 
 
-# Sobre
+# 👨‍💻 Sobre
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco - UFRPE | 4º Período.
 - 💼 Gerente de Projetos na Seed a Bit (Empresa Júnior de TI), acumulando experiência prática em desenvolvimento Back-end, Front-end e DevOps, além de liderança em tecnologia.
 - 🌐 Participei do desenvolvimento do Back-End e da infraestrutura do [site oficial do curso de Ciência da Computação da UFRPE](https://ufrpebcc.com.br), além de ter sido o Scrum Master reponsável pelo gerenciamento do projeto.
 - 🚀Atualmente estou Refinando e consolidando habilidades em desenvolvimento Full-Stack e práticas de DevOps, utilizando ambientes de nuvem como AWS e Azure, além de outras ferramentas de infraestrutura.
 
-# 💻Tech-Stack:
+<h1 align="center">💻Tech-Stack</h1>
 
-## Frontend
+
+## 🎨 Frontend
 <div>
    <a><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
    <a><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -23,7 +24,7 @@
    <a><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 </div>
 
-## Backend
+## ⚙️ Backend
 <div>
   <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
@@ -49,7 +50,7 @@
   <a><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
 </div>
 
-## DevOps, Infrastructure & Cloud
+## ☁️ DevOps, Infrastructure & Cloud
 <div>
   <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   <a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
@@ -63,7 +64,8 @@
   <a><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
 </div>
 
-# Experiência Profissional
+<h1 align="center">💼 Experiência Profissional</h1>
+
 
 ### 🚀 **Seed a Bit Tecnologia** — *Empresa Júnior de TI (UFRPE)*
 
@@ -163,17 +165,34 @@
   </tr>
 </table>
 
+<h1 align="center"><font color="#00E5FF">📊 GitHub Stats</font></h1>
 
-
-# 📊Github Stats:
-<div>
-  <a href= "https://beacons.ai/LucaSs55"></a>
-  <img height = 180em src ="https://github-readme-stats.vercel.app/api?username=LucaSs55&show_icons=true&cache_seconds=86400&theme=react"/>
-  <img height = 180em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSs55&layout=compact&theme=react"/>  
+<div align="center">
+  <a href="https://beacons.ai/LucaSs55" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSantos-dev25&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=react"/>
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantos-dev25&layout=compact&langs_count=6&theme=react"/>  
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/LucasSantos-dev25?label=Seguidores&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/LucasSantos-dev25?label=Stars&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github" />
+</p>
+
+
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSantos-dev25&theme=react&background=0D1117&border=00E5FF&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasSantos-dev25&theme=react" alt="GitHub Profile Summary" />
+</p>
+
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaSs55/LucaSs55/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucaSs55/LucaSs55/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucaSs55/LucaSs55/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSantos-dev25/LucasSantos-dev25/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasSantos-dev25/LucasSantos-dev25/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasSantos-dev25/LucasSantos-dev25/output/github-contribution-grid-snake.svg">
 </picture>
