@@ -78,7 +78,7 @@
 - **Infraestrutura & DevOps:** Administração de ambientes de servidores utilizando **Linux**, containerização de aplicações com **Docker** e automação de pipelines com **GitHub Actions**.
 - **Desenvolvimento Front-End:** Criação de interfaces web modernas e responsivas integradas ao back-end utilizando **React, Next.js e Tailwind CSS**.
 
-<h1 align="center">Projetos Em Destaque</h1>
+<h1 align="center">🏆 Projetos Em Destaque</h1>
 
 <table>
   <tr>
@@ -189,6 +189,32 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasSantos-dev25&theme=react" alt="GitHub Profile Summary" />
+</p>
+
+<br />
+
+<h1 align="center"><font color="#00E5FF">📫 Vamos Conversar? / Connect with Me</font></h1>
+
+<p align="center">
+  Sinta-se à vontade para se conectar comigo, discutir projetos de software, oportunidades ou trocar ideias sobre DevOps e Arquitetura!
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-santos-do-nascimento-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="lucassantos2018d@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/lucass.s25_?dlrf=ZzA4YTZkNGQya2Qz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <sub><i>Desenvolvido com 💻 e ☕ por <b>Lucas Santos do Nascimento</b></i></sub>
 </p>
 
 <picture align="center">
