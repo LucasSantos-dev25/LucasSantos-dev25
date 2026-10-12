@@ -21,8 +21,6 @@
    <a><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
    <a><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
    <a><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-
-
 </div>
 
 ## Backend
@@ -64,6 +62,19 @@
   <a><img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
 </div>
+
+# Experiência Profissional
+
+### 🚀 **Seed a Bit Tecnologia** — *Empresa Júnior de TI (UFRPE)*
+
+**Gerente de Projetos** | *Ago 2026 – Presente*
+- **Infraestrutura & Cloud DevOps:** Administração e gerenciamento de ambientes em nuvem utilizando **AWS** e **Hostinger**, garantindo alta disponibilidade e escalabilidade para os projetos institucionais e de clientes.
+- **Liderança Técnica & Onboarding:** Condução de capacitações técnicas voltadas para **DevOps** e aplicação de desafios de back-end, focando em boas práticas, padrões de projeto e documentação robusta de APIs com **NestJS** para a capacitação de novos membros.
+
+**Analista de Projetos** | *Mar 2026 – Jul 2026*
+- **Desenvolvimento Back-End & APIs:** Construção de APIs RESTful escaláveis com **NestJS**, modelagem de banco de dados e documentação interativa de endpoints com **Swagger**.
+- **Infraestrutura & DevOps:** Administração de ambientes de servidores utilizando **Linux**, containerização de aplicações com **Docker** e automação de pipelines com **GitHub Actions**.
+- **Desenvolvimento Front-End:** Criação de interfaces web modernas e responsivas integradas ao back-end utilizando **React, Next.js e Tailwind CSS**.
 
 
 # 📊Github Stats:
