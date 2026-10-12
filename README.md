@@ -76,6 +76,94 @@
 - **Infraestrutura & DevOps:** Administração de ambientes de servidores utilizando **Linux**, containerização de aplicações com **Docker** e automação de pipelines com **GitHub Actions**.
 - **Desenvolvimento Front-End:** Criação de interfaces web modernas e responsivas integradas ao back-end utilizando **React, Next.js e Tailwind CSS**.
 
+<h1 align="center">Projetos Em Destaque</h1>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Site Institucional de BCC — UFRPE</h3>
+      <p align="center">
+        <a href="https://ufrpebcc.com.br/"><b>🔗 Ver Site</b></a>
+      </p>
+      <p align="center">Site Institucional oficial desenvolvido para servir como o principal ponto de contato e vitrine do curso de Ciência da Computação da UFRPE. O projeto visa ampliar a visibilidade do curso, conectar novos estudantes à graduação e centralizar informações acadêmicas com navegação moderna e intuitiva.</p>
+      <p><b>Destaques Técnicos:</b></p>
+      <ul>
+        <li>API RESTful em NestJS para gestão de conteúdos dinâmicos</li>
+        <li>Deploy em VPS Linux com Docker Compose</li>
+        <li>Proxy reverso Nginx com SSL/TLS automatizado via Certbot</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏦 TraceBank API</h3>
+      <p align="center">
+        <a href="https://github.com/LucasSantos-dev25/TraceBank"><b>📦 Repositório</b></a> 
+      </p>
+      <p align="center">Solução robusta desenvolvida para gestão bancária e processamento seguro de transações financeiras. Garante consistência total de saldo entre contas e oferece um histórico imutável para extratos de alta confiabilidade.</p>
+      <p><b>Destaques Técnicos:</b></p>
+      <ul>
+        <li>Transações atômicas para garantia de integridade dos saldos</li>
+        <li>Registro imutável de movimentações no banco relacional</li>
+        <li>Migrations de banco de dados gerenciadas com Flyway em Java 21</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flyway-CC6600?style=flat-square&logo=flyway&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 StockLedger API</h3>
+      <p align="center">
+        <a href="https://github.com/LucasSantos-dev25/StockLedger-API"><b>📦 Repositório</b></a> 
+      </p>
+      <p align="center">API RESTful para controle auditável de inventário e gestão de estoques. Adota a filosofia de livro-razão (ledger) para garantir rastreabilidade completa de cada entrada e saída de produto no sistema.</p>
+      <p><b>Destaques Técnicos:</b></p>
+      <ul>
+        <li>Arquitetura Limpa (Clean Architecture) e Repository Pattern</li>
+        <li>Histórico transacional auditável e persistência via Prisma ORM</li>
+        <li>Documentação interativa com Swagger e ambiente isolado com Docker</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Anima — Plataforma de Psicologia</h3>
+      <p align="center">
+        <a href="https://github.com/LucasSantos-dev25/Anima"><b>📦 Repositório(Projeto em Desenvolvimento)</b></a>  
+      </p>
+      <p align="center">Plataforma de saúde mental voltada para conectar pacientes a psicólogos de diversas especialidades. Facilita a busca por atendimento especializado e simplifica o agendamento de consultas de forma rápida e acessível.</p>
+      <p><b>Destaques Técnicos:</b></p>
+      <ul>
+        <li>Interface dinâmica e reativa desenvolvida em Angular</li>
+        <li>Arquitetura de microsserviços/APIs robustas com Java e Spring Boot</li>
+        <li>Gestão segura de agendamentos e cadastros de profissionais</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 # 📊Github Stats:
 <div>
